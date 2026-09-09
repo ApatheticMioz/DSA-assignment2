@@ -1,7 +1,3 @@
-// Muhammad Abdullah Ali
-// i23-2523
-// Section A
-// Data Structures Assignment 2
 
 #include <curses.h>
 #include <iostream>
