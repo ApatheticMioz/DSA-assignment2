@@ -91,4 +91,4 @@ g++ -o unseen_journey_quest.exe main.cpp -lpdcurses
 
 ## Author
 
-Muhammad Abdullah Ali
+ApatheticMioz
